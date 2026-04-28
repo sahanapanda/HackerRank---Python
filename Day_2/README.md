@@ -1,25 +1,21 @@
-Problems Covered:
+# Day 2 - Python Practice (HackerRank)
 
-Leap Year
+## Problems Covered:
 
-Check whether a given year is a leap year based on conditions
+1. Leap Year 
+   - Check whether a given year is a leap year based on conditions  
 
-Print Function
+2. Print Function 
+   - Print numbers from 1 to n without spaces in a single line
 
-Print numbers from 1 to n without spaces in a single line
+3. List Comprehensions (3D Coordinates)  
+   - Generate all possible coordinates (i, j, k) within given ranges where their sum is not equal to n
 
-List Comprehensions (3D Coordinates)
-
-Generate all possible coordinates (i, j, k) within given ranges where their sum is not equal to n
-
-Notes:
-
+## Notes:
 Practiced intermediate Python concepts:
-
-print()
-if-else conditions
-functions
-Boolean values (True/False)
-loops (nested loops)
-lists and list operations
-basic logical problem solving
+- print()
+- if-else conditions
+- functions
+- Boolean values (True/False)
+- loops (nested loops)
+- lists and list operations
