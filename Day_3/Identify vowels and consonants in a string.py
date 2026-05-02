@@ -16,6 +16,3 @@ for i in s:
 print("vowels : ", vowels)
 print("consonants : ", consonants)
 
-sahana
-vowels :  {'a'}
-consonants :  {'s', 'n', 'h'}
