@@ -12,6 +12,3 @@ words = text.split()
 s = set(words)
 
 print(s)
-
-sahana, is very fa.t
-{'fat', 'very', 'sahana', 'is'}
