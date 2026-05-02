@@ -17,9 +17,6 @@ Lowercase, remove punctuation, get unique words
 **Bonus Calculation**  
 Calculate bonus and final salary  
 
-**Temperature Conversion**  
-Convert between Celsius and Fahrenheit  
-
 ---
 
 ## Notes:
