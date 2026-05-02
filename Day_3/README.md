@@ -8,9 +8,6 @@ Find missing letters from input
 **Vowels & Consonants**  
 Separate vowels and consonants  
 
-**Python, Java, C**  
-Set operations (all three, one, at least two)  
-
 **Remove Duplicates**  
 Remove duplicates and sort list  
 
