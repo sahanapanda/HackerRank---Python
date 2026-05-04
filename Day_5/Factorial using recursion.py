@@ -1,4 +1,4 @@
-#Factorial using recursion
+#Factorial using recursionfunction 
 def factorial(n):
     if n < 0:
         return "Invalid"
