@@ -1,4 +1,4 @@
-#Sum of digits
+#Sum of digits using recursion function
 def sum_digits(n):
     if n == 0:
         return 0
