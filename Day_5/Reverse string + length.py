@@ -8,6 +8,3 @@ def length(s):
     if s == "":
         return 0
     return 1 + length(s[1:])
-
-print(reverse_string("hello"))
-print(length("hello"))
