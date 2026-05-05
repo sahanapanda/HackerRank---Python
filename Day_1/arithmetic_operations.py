@@ -1,4 +1,4 @@
-# Day 1 - Arithmetic Operations
+# Day 1 - Arithmetic Operations 
 # Problem: Print, sum, difference, product
 
 a = int(input())
