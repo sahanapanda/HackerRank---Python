@@ -1,5 +1,5 @@
 # Day 2 - List Problem (3D Coordinates)
-# Problem: Generate all coordinates where i+j+k != n
+# Problem: Generate all coordinates where i+j+k is not equal to n
 
 x = int(input())
 y = int(input())
