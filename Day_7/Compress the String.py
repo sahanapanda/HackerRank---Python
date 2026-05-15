@@ -1,0 +1,9 @@
+# Day 7 - Compress the String
+# Problem: Count consecutive characters using groupby()
+
+from itertools import groupby
+
+s = input()
+
+for key, group in groupby(s):
+    print((len(list(group)), int(key)), end=' ')
