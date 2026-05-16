@@ -1,4 +1,4 @@
-# Day 7 - Compress the String
+# Day 7 - Compress the String 
 # Problem: Count consecutive characters using groupby()
 
 from itertools import groupby
