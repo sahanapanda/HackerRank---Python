@@ -1,5 +1,5 @@
 # Day 9 - String Validators
-# Problem: Check different properties of characters in a string
+# Problem: Check different properties of characters in a string 
 
 if __name__ == '__main__':
     s = input()
