@@ -1,5 +1,5 @@
 # Day 8 - Split and Join
-# Problem: Replace spaces in a string with hyphens
+# Problem: Replace spaces in a string with hyphens 
 
 def split_and_join(line):
     return "-".join(line.split(" "))
