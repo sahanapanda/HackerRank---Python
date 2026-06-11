@@ -7,7 +7,7 @@ class Solution(object):
         if not nums:
             return 0
         
-        # Pointer to place the next unique element
+        # Pointer to place the next unique elements
         write_index = 1
         
         # Iterate through the array starting from the second element
