@@ -1,5 +1,5 @@
 # Day 1 - Division
-# Problem: Print integer and float division
+# Problem: Print integer and float division 
 
 a = int(input())
 b = int(input())
