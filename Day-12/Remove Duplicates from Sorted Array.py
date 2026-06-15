@@ -19,3 +19,4 @@ class Solution(object):
                 
         # write_index represents the count of unique elements
         return write_index
+        
