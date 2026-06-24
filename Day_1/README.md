@@ -1,4 +1,4 @@
-# Day 1 - Python Practice (HackerRank)
+# Day 1 - Python Practice(HackerRank)
 
 ## Problems Covered:
 
