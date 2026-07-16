@@ -8,7 +8,7 @@
 2. Weird / Not Weird  
    - Check number conditions and print result  
 
-3. Arithmetic Operations  
+3. Arithmetic Operations   
    - Print sum, difference, and product of two numbers  
 
 4. Squares  
