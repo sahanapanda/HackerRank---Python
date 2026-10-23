@@ -9,7 +9,7 @@ class Solution {
     }
 
     private void backtrack(int start, int n, int k, List<Integer> current, List<List<Integer>> result) {
-        // Base case: if the combination has k elements, add it to the final result
+        // Base case: if the combination has k elements, add it to the final result can be done
         if (current.size() == k) {
             result.add(new ArrayList<>(current));
             return;
